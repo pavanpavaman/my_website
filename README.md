@@ -1,3 +1,35 @@
+# My Website
+
+This is a Next.js portfolio site styled in a hand-drawn / paper aesthetic.
+
+Quick start
+
+```bash
+npm install
+npm run dev
+```
+
+Deploy to GitHub + Vercel
+
+1. Initialize git, commit, and push to a new GitHub repository (see commands below).
+2. In Vercel, import the GitHub repository and follow the deploy prompts.
+
+Commands
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <your-github-repo-url>
+git push -u origin main
+```
+
+Vercel notes
+
+- When importing, Vercel detects Next.js automatically.
+- Add any environment variables in the Vercel dashboard if needed.
+- For custom domains, set DNS records as instructed by Vercel.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
