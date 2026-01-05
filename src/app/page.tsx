@@ -875,6 +875,7 @@ const ResumeSection = () => {
                   <span className="flex items-center gap-2"><Phone size={18}/> +91 9381238714</span>
                   <span className="flex items-center gap-2"><Mail size={18}/> pavandhanush9581@gmail.com</span>
                   <span className="flex items-center gap-2"><Github size={18}/> github.com/pavanpavaman</span>
+                  <span className="flex items-center gap-2"><Globe size={18}/> pavanwebsite-ksz6cc085-ivars-projects-6cde5af3.vercel.app</span>
                 </div>
                 <div className="absolute top-0 right-0 hidden md:block print:hidden">
                    <div className="bg-[#ffeb3b] px-4 py-2 border-2 border-[#2d2d2d] font-bold transform rotate-6">
